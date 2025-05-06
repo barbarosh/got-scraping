@@ -17,7 +17,7 @@
     "type": "module",
     "dependencies": {
         "got": "^14.2.1",
-        "header-generator": "^2.1.41",
+        "header-generator": "^2.1.66",
         "http2-wrapper": "^2.2.0",
         "mimic-response": "^4.0.0",
         "ow": "^1.1.1",
